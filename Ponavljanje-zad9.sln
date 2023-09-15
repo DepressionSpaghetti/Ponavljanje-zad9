@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponavljanje-zad9", "Ponavljanje-zad9\Ponavljanje-zad9.csproj", "{B9498031-9D60-4B67-9B48-4E6CA9BA3BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9498031-9D60-4B67-9B48-4E6CA9BA3BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9498031-9D60-4B67-9B48-4E6CA9BA3BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9498031-9D60-4B67-9B48-4E6CA9BA3BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9498031-9D60-4B67-9B48-4E6CA9BA3BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D59408-C4DB-4764-80CB-22C57814D577}
+	EndGlobalSection
+EndGlobal
